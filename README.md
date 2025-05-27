@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateenbaig-sudo
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++, Python, HTML and CSS 
 - 📫 Reach me out through my email: mateen.baig05@gmail.com
 
 <!---
